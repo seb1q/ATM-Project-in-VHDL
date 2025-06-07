@@ -8,7 +8,6 @@ Insturctions:
 - connect your Basys 3 FPGA to your pc and hit run bitstream in Xilinx Vivado
 - after bitstream is completed you can test the ATM
 
-How to use ATM:
 ## How to Use the FPGA ATM
 
 ### 1. Entering Your PIN
